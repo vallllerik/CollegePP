@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+max= max(a,b)
+min = min(a,b)
+print('S:',max - min)

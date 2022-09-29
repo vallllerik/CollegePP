@@ -1,0 +1,10 @@
+x=int(input())
+y=int(input())
+z=int(input())
+sum=x+y+z
+list=[x,y,z]
+M=max(list)
+m=min(list)
+print(sum)
+print(M)
+print(m)
