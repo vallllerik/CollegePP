@@ -1,1 +1,0 @@
-print("Кто ты, Python?")
