@@ -24,7 +24,7 @@ while True:
 
     if 'сп' in vibor:
         raspisanie.Raspisanie()
-    elif 'пр' in vibor:
+    elif 'маг' in vibor:
         prise.Price()
     elif 'нф' in vibor:
         info.INF()

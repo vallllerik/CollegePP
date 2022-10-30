@@ -1,0 +1,5 @@
+pat = input('Введите оценки через пробел: ')
+patList = pat.split(' ')
+count = len(patList)
+counter = patList.count('5')
+print('Процент пятёрок: ', counter/count*100)
